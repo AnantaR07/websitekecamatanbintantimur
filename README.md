@@ -14,10 +14,4 @@ A custom-built government website developed for **Kecamatan Bintan Timur**, desi
 - 🗄️ MySQL (database management)
 - 🎨 Bootstrap (responsive frontend design)
 
-📎 **Purpose**  
-This project empowers local government to efficiently manage public data and communicate updates to citizens through a user-friendly digital platform.
-
 ---
-
-📌 _Built with passion for digital government transformation_ 🇮🇩
-
